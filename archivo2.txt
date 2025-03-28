@@ -1,0 +1,1 @@
+Git es un sistema de control de versiones distribuido, lo que significa que rastrea los cambios realizados en los archivos de un proyecto a lo largo del tiempo. Permite a los desarrolladores colaborar en el mismo proyecto, gestionar diferentes versiones del código y revertir a versiones anteriores si es necesario.
